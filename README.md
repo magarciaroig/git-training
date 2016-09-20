@@ -6,3 +6,4 @@ este es el cuatro cambio b
 este es el quinto cambio
 este es el sexto cambio
 cambio de feature1
+cambio de feature2
