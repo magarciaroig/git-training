@@ -6,4 +6,4 @@ este es el cuatro cambio b
 este es el quinto cambio
 este es el sexto cambio
 cambio de feature1
-mastercambio de feature2
+masterc&feature2cambio de feature2
